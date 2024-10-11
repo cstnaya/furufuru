@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'zh-tw'
+languageCode = 'zh-tw'
+        
+title = '小貓呼嚕中心'
+
+theme = 'blowfish' 
+
+pluralizeListTitles = true
+
+enableRobotsTXT = true 
+
+paginate = 10 
+summaryLength = 40
+enableEmoji = true

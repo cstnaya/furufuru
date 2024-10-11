@@ -1,0 +1,15 @@
+
+[[main]]
+  name = "首頁"
+  pageRef = "home"
+  weight = 10
+
+[[main]]
+  name = "最新消息"
+  pageRef = "news"
+  weight = 20
+
+[[main]]
+  name = "員工日誌"
+  pageRef = "notes"
+  weight = 30

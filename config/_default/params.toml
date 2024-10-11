@@ -1,0 +1,26 @@
+colorScheme = "Slate"
+
+defaultAppearance = 'dark'
+autoSwitchAppearance = true
+
+homepage.layout = "hero"
+homepage.homepageImage = 'https://images.unsplash.com/photo-1688516786794-1b62671d00c6?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+homepage.showRecent = true
+homepage.showRecentItems = 6
+homepage.cardView = true
+homepage.cardViewScreenWidth = false
+
+article.showDate = true
+article.showDateOnlyInArticle = true
+
+article.showAuthor = false
+
+article.showHero = true
+article.heroStyle = 'thumbAndBackground'
+
+article.showBreadcrumbs = true
+article.showReadingTime = false
+article.showWordCount = false
+
+article.showRelatedContent = false
+article.relatedContentLimit = '3'
